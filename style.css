@@ -1,0 +1,9 @@
+#homePage {
+    background-image: url('https://t4.ftcdn.net/jpg/02/33/05/89/240_F_233058925_4SWWGmWiCVdFlFapvgSsUjzm4llo3U4x.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
